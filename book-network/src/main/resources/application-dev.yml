@@ -1,0 +1,38 @@
+spring:
+  datasource:
+    url: jdc:postgresql://localhost:5432/book_network_system
+    username: username
+    password: password
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSLDialect
+  mail:
+    host: localhost
+    port: 1025
+    username: shubham
+    password: shubham
+    properties:
+      mail:
+        smtp:
+          trust: "*"
+        auth: true
+        starttls:
+          enable: true
+        connectiontimeout: 5000
+        timeout: 3000
+        writetimeout: 5000
+
+application:
+  security:
+    jwt:
+      secret-key: eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTcyODM1NTQ2NiwiaWF0IjoxNzI4MzU1NDY2fQ.XQtP0lz7uCrvi_jYCip1QGXS5pYoTqAIROQrM_x5x7U
+      expiration: 86400000
+
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="143763e8-617b-43e7-b562-2030da4bec4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/book-network-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-network/src/main/java/in/choubeyshubham/book_network_system_api/auth/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-network/src/main/java/in/choubeyshubham/book_network_system_api/auth/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-network/src/main/java/in/choubeyshubham/book_network_system_api/auth/RegistrationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-network/src/main/java/in/choubeyshubham/book_network_system_api/security/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network-system.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/book-network/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/in/choubeyshubham/book_network_system_api/security/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-network/src/main/java/in/choubeyshubham/book_network_system_api/security/JwtFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/java/in/choubeyshubham/book_network_system_api/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-network/src/main/java/in/choubeyshubham/book_network_system_api/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-network/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/book-network/src/main/resources/application-dev.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/book-network" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "choubeyshubham"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/choubeyshubham/book-network-system.git",
+    "accountId": "2c9e8ea7-11bc-4da1-b389-595a71919ad1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2n8fYJiHfhkH51iJKhPa3zSMjyH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gant",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="in.choubeyshubham.book_network_system_api.auth" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookNetworkSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Book_Network_System_API" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="in.choubeyshubham.book_network_system_api.BookNetworkSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="143763e8-617b-43e7-b562-2030da4bec4d" name="Changes" comment="" />
+      <created>1728359669788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728359669788</updated>
+      <workItem from="1728359670879" duration="6679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
